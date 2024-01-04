@@ -4,8 +4,8 @@ A simple recipe webpage implementation using HTML, a practice toy project to sol
 
 ## The HTML tags used:
 
-- <p>
-- <img>
-- <ul> and <ol>
-- <h1> and <h3>
-- <a>
+- p tags
+- img tags
+- ordered and unordered list tags
+- headers 1 and 3
+- anchor tags
