@@ -1,0 +1,24 @@
+* {
+    font-family: Georgia, serif;
+}
+
+body {
+    background-color: beige;
+}
+
+img {
+    border: 5px solid burlywood;
+    border-radius: 10px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.page-title {
+    font-size: 45px;
+}
+
+.subheader {
+    font-size: 25px;
+}
