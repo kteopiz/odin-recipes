@@ -1,5 +1,7 @@
 * {
     font-family: Georgia, serif;
+    box-sizing: border-box;
+    
 }
 
 body {
@@ -12,13 +14,22 @@ img {
 }
 
 ul {
-    list-style-type: square;
+    list-style-type: none;
 }
 
 .page-title {
     font-size: 45px;
+    text-align: center;
 }
 
 .subheader {
     font-size: 25px;
 }
+
+.collage {
+    display: inline-block;
+    width: 33%;
+    height: 400px;
+}
+
+
